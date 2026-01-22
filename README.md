@@ -1,0 +1,3 @@
+## final classはmokitoからmocking可能は不可能なのかを検証
+結果mokitoの５バージョン以上であればfinalクラスもmockingできることが検証で確認できている。
+詳細はテストコードを参照ください。
